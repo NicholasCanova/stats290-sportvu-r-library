@@ -1,0 +1,2 @@
+load("/Users/Home/Dropbox/My Documents/Stanford University/2016-17 Winter Quarter/STATS 290 Paradigms for Computing/Stats290 Project/sportVU/data/shotdata.rda")
+load("/Users/PeterLee/Dropbox/Stats290 Project/sportVU/data/test_rosters.rda")
